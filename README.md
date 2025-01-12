@@ -31,4 +31,4 @@ This is a backend project built with Node.js that allows image uploads with the 
 - **Cloudinary Storage**: Uploaded images are stored in a specific folder on **Cloudinary** for better organization and easy retrieval.
 
    ```bash
-   git clone <repo-url>
+  
