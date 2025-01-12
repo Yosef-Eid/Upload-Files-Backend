@@ -30,5 +30,5 @@ This is a backend project built with Node.js that allows image uploads with the 
 - **Multiple Images Upload**: Send multiple files through the designated endpoint to upload multiple images in one request.
 - **Cloudinary Storage**: Uploaded images are stored in a specific folder on **Cloudinary** for better organization and easy retrieval.
 
-   ```bash
+
   
